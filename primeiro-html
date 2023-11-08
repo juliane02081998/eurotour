@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EuroTOUR</title>
+</head>
+<body>
+    <header>
+        <span>EuroTOUR</span>
+        <nav></nav>
+            <UL>
+              <li>PASSAGENS</li>
+              <li>HOSPEDAGEM</li>
+              <li>PONTOS TURÍSTICOS</li>
+            </ul>
+    </header>
+        <main>
+            <section>
+                <h1>SEJAM MUITO BEM VINDOS AO SEU GUIA DE LUGARES FAVORITOS DO TURISMO NA EUROPA</h1>
+                <p>Venha explorar a riqueza da cultura europeia, em nosso site você encontra os melhores locais para voce ter uma ótima experiência com as paisagens e encantos desse continente maravilhoso</p>
+            <section>
+                <main>
+    <div>
+        <h2>1. TORRE DE BELÉM - LISBOA
+            2. ALPES
+            3. CALÇADA DOS GIGANTES
+        </h2>
+            
+    </body>
+</html>
